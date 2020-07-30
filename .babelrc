@@ -1,0 +1,3 @@
+{
+  "presets": ["next/babel", "@babel/preset-typescript"] // gives us the ability to write new js syntax and supports typescript
+}
